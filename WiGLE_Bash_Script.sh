@@ -20,7 +20,7 @@ API_URL="https://api.wigle.net/api/v2/network/search?onlymine=false&freenet=fals
 searchAfter="############"
 
 # Set initial output file number
-file_num=2
+file_num=1
 
 # Loop until there are no more results
 while true; do
